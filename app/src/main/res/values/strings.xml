@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Acesso API Rest</string>
+    <string name="hint_txt_cep">Informe o CEP</string>
+</resources>
